@@ -1,1 +1,1 @@
--e git+git@github.com:simright/some_package#egg=some_package
+# -e git+git@github.com:simright/some_package#egg=some_package

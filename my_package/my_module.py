@@ -1,3 +1,3 @@
-class ClassName(object):
+class MyClass(object):
     def __init__(self):
         pass

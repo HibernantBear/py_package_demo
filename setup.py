@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='py_package_demo',
+    name='my_package',
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
 )
